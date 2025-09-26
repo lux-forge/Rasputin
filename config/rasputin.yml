@@ -1,0 +1,8 @@
+# Core yaml file for Rasputin configuration
+# This file is read by Rasputin at startup to configure its behavior
+# Modify the values below to suit your environment and requirements
+# For more details on each configuration option, refer to the Rasputin documentation
+
+# Lore settings
+lore_mode: true  # Enable or disable lore mode
+lore_file: "lore.txt"  # Path to the lore file
