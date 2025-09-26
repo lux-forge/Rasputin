@@ -1,6 +1,5 @@
 # Rasputin: LuxForge Warmind AI
-
-Rasputin is a branded, Destiny2-inspired AI assistant for code generation, config validation, and incident triage — built for LuxForge and powered by modular scripting.
+Inspired by Bungie's Destiny franchise and the AI boom, LUXFORGE is here to host its own AI; under Luxforge's belt this time. Forked from Clovis Bray Exoscience Corporation.
 
 ### || Pulse-driven responses   || Tactical code generation  || Dry-run safe diagnostics  || Destiny2 lore integration ||
 
